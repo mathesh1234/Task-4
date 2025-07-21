@@ -1,4 +1,4 @@
-
+Company: CodeTech IT solutions Name: Mathesh.PR Domain: Java Programming Intern ID: CT04DZ653 Duration: 4 Weeks Mentor: Neela Santhosh Kumar
 Recommendation System (User-Based) using Apache Mahout + Spring Boot
 This is a simple user-based collaborative filtering recommendation system built using:
 
